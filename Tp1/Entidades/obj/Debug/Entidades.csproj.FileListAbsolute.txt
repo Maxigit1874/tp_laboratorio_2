@@ -1,0 +1,7 @@
+C:\Users\maxi_\Desktop\Entidades\bin\Debug\Entidades.exe.config
+C:\Users\maxi_\Desktop\Entidades\bin\Debug\Entidades.exe
+C:\Users\maxi_\Desktop\Entidades\bin\Debug\Entidades.pdb
+C:\Users\maxi_\Desktop\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\maxi_\Desktop\Entidades\obj\Debug\Entidades.exe
+C:\Users\maxi_\Desktop\Entidades\obj\Debug\Entidades.pdb
+C:\Users\maxi_\Desktop\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
